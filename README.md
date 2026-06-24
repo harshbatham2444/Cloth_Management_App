@@ -1,4 +1,4 @@
-# 👕 Cloth Management App
+# 👕 AI Cloth Size Measurement
 
 ## AI-Powered Virtual Fitting Assistant
 
