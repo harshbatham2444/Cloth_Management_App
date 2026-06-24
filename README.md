@@ -29,7 +29,7 @@ pip install opencv-python mediapipe PyQt5
 ## Run the Application
 
 ```bash
-python cloths.py
+python ai_cloth_size_measurement.py
 ```
 
 ## Applications
